@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Project6.4(1)\Project6.4(1)\Source.cpp(88): warning C4715: 'null1i': not all control paths return a value
+C:\Users\Admin\source\repos\Project6.4(1)\Project6.4(1)\Source.cpp(94): warning C4715: 'null2i': not all control paths return a value
+  Project6.4(1).vcxproj -> C:\Users\Admin\source\repos\Project6.4(1)\Debug\Project6.4(1).exe
